@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\bin\Debug\BT3.8.Cong-Hai-Ma-Tran.exe.config
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\bin\Debug\BT3.8.Cong-Hai-Ma-Tran.exe
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\bin\Debug\BT3.8.Cong-Hai-Ma-Tran.pdb
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\obj\Debug\BT3.8.Cong-Hai-Ma-Tran.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\obj\Debug\BT3.8.Cong-Hai-Ma-Tran.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\obj\Debug\BT3.8.Cong-Hai-Ma-Tran.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\obj\Debug\BT3.8.Cong-Hai-Ma-Tran.exe
+D:\Workspace\C#\Console\Learning\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\BT3.8.Cong-Hai-Ma-Tran\obj\Debug\BT3.8.Cong-Hai-Ma-Tran.pdb

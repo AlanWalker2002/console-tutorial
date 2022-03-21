@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\bin\Debug\ErrorCoding.exe.config
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\bin\Debug\ErrorCoding.exe
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\bin\Debug\ErrorCoding.pdb
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\obj\Debug\ErrorCoding.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\obj\Debug\ErrorCoding.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\obj\Debug\ErrorCoding.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\obj\Debug\ErrorCoding.exe
+D:\Workspace\C#\Console\Learning\ErrorCoding\ErrorCoding\ErrorCoding\obj\Debug\ErrorCoding.pdb

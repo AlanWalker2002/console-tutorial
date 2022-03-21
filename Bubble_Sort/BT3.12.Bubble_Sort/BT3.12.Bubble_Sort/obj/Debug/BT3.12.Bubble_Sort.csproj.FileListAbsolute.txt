@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\bin\Debug\BT3.12.Bubble_Sort.exe.config
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\bin\Debug\BT3.12.Bubble_Sort.exe
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\bin\Debug\BT3.12.Bubble_Sort.pdb
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\obj\Debug\BT3.12.Bubble_Sort.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\obj\Debug\BT3.12.Bubble_Sort.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\obj\Debug\BT3.12.Bubble_Sort.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\obj\Debug\BT3.12.Bubble_Sort.exe
+D:\Workspace\C#\Console\Learning\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\BT3.12.Bubble_Sort\obj\Debug\BT3.12.Bubble_Sort.pdb

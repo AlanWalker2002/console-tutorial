@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\bin\Debug\Diem-Xep-Loai-Sinh-Vien.exe.config
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\bin\Debug\Diem-Xep-Loai-Sinh-Vien.exe
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\bin\Debug\Diem-Xep-Loai-Sinh-Vien.pdb
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\obj\Debug\Diem-Xep-Loai-Sinh-Vien.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\obj\Debug\Diem-Xep-Loai-Sinh-Vien.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\obj\Debug\Diem-Xep-Loai-Sinh-Vien.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\obj\Debug\Diem-Xep-Loai-Sinh-Vien.exe
+D:\Workspace\C#\Console\Learning\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\Diem-Xep-Loai-Sinh-Vien\obj\Debug\Diem-Xep-Loai-Sinh-Vien.pdb

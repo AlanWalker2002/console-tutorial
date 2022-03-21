@@ -1,0 +1,16 @@
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\bin\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.exe.config
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\bin\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.exe
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\bin\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.pdb
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.exe
+D:\Workspace\C#\Console\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.pdb
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\bin\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.exe.config
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\bin\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.exe
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\bin\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.pdb
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.exe
+D:\Workspace\C#\Console\Learning\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\BT3.1.Nhap-Ho-Ten-Tuoi\obj\Debug\BT3.1.Nhap-Ho-Ten-Tuoi.pdb

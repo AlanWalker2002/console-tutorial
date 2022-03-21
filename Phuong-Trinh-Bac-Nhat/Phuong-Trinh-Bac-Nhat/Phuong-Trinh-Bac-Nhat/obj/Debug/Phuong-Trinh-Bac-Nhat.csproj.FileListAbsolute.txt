@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\bin\Debug\Phuong-Trinh-Bac-Nhat.exe.config
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\bin\Debug\Phuong-Trinh-Bac-Nhat.exe
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\bin\Debug\Phuong-Trinh-Bac-Nhat.pdb
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\obj\Debug\Phuong-Trinh-Bac-Nhat.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\obj\Debug\Phuong-Trinh-Bac-Nhat.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\obj\Debug\Phuong-Trinh-Bac-Nhat.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\obj\Debug\Phuong-Trinh-Bac-Nhat.exe
+D:\Workspace\C#\Console\Learning\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\Phuong-Trinh-Bac-Nhat\obj\Debug\Phuong-Trinh-Bac-Nhat.pdb

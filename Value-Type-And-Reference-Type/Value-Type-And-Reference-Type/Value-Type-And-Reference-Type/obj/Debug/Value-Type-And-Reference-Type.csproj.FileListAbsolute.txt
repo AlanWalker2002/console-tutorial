@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\bin\Debug\Value-Type-And-Reference-Type.exe.config
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\bin\Debug\Value-Type-And-Reference-Type.exe
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\bin\Debug\Value-Type-And-Reference-Type.pdb
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\obj\Debug\Value-Type-And-Reference-Type.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\obj\Debug\Value-Type-And-Reference-Type.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\obj\Debug\Value-Type-And-Reference-Type.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\obj\Debug\Value-Type-And-Reference-Type.exe
+D:\Workspace\C#\Console\Learning\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\Value-Type-And-Reference-Type\obj\Debug\Value-Type-And-Reference-Type.pdb

@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\bin\Debug\BT3.6.Tim-Max-Min-Trong-Mang.exe.config
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\bin\Debug\BT3.6.Tim-Max-Min-Trong-Mang.exe
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\bin\Debug\BT3.6.Tim-Max-Min-Trong-Mang.pdb
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\obj\Debug\BT3.6.Tim-Max-Min-Trong-Mang.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\obj\Debug\BT3.6.Tim-Max-Min-Trong-Mang.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\obj\Debug\BT3.6.Tim-Max-Min-Trong-Mang.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\obj\Debug\BT3.6.Tim-Max-Min-Trong-Mang.exe
+D:\Workspace\C#\Console\Learning\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\BT3.6.Tim-Max-Min-Trong-Mang\obj\Debug\BT3.6.Tim-Max-Min-Trong-Mang.pdb

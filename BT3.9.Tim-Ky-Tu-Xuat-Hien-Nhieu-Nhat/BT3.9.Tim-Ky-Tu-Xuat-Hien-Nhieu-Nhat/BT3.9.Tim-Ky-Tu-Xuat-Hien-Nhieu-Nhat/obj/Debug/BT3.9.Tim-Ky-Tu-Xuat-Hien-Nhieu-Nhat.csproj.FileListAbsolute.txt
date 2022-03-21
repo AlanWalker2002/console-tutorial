@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\bin\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.exe.config
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\bin\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.exe
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\bin\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.pdb
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\obj\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\obj\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\obj\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\obj\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.exe
+D:\Workspace\C#\Console\Learning\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat\obj\Debug\BT3.9.Tim-Ky-Tu-Xuat-Hien-Nhieu-Nhat.pdb

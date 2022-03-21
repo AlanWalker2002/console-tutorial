@@ -1,0 +1,8 @@
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\bin\Debug\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang.exe.config
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\bin\Debug\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang.exe
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\bin\Debug\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang.pdb
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\obj\Debug\Tim-So-Lon-Thu-2-trong-Mang.csproj.AssemblyReference.cache
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\obj\Debug\Tim-So-Lon-Thu-2-trong-Mang.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\obj\Debug\Tim-So-Lon-Thu-2-trong-Mang.csproj.CoreCompileInputs.cache
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\obj\Debug\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang.exe
+D:\Workspace\console-tutorial\Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang\obj\Debug\BT.3.7.Tim-So-Lon-Thu-2-trong-Mang.pdb

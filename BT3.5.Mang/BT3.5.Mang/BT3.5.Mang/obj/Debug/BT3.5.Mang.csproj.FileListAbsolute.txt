@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\bin\Debug\BT3.5.Mang.exe.config
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\bin\Debug\BT3.5.Mang.exe
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\bin\Debug\BT3.5.Mang.pdb
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\obj\Debug\BT3.5.Mang.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\obj\Debug\BT3.5.Mang.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\obj\Debug\BT3.5.Mang.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\obj\Debug\BT3.5.Mang.exe
+D:\Workspace\C#\Console\Learning\BT3.5.Mang\BT3.5.Mang\BT3.5.Mang\obj\Debug\BT3.5.Mang.pdb

@@ -1,0 +1,8 @@
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\bin\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.exe.config
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\bin\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.exe
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\bin\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.pdb
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\obj\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.csproj.AssemblyReference.cache
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\obj\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\obj\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\obj\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.exe
+D:\Workspace\C#\Console\Learning\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con\obj\Debug\BT3.10.Dem-So-Lan-Xuat-Hien-Chuoi-Con.pdb
